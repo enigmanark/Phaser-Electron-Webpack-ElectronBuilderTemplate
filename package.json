@@ -4,7 +4,7 @@
   "license": "MIT",
   "build": {
     "appId": "com.solaromni.phaserElectronTest",
-    "asar" : false,
+    "asar": false,
     "files": [
       "assets/*"
     ]
@@ -19,7 +19,7 @@
     "source-map-support": "^0.5.9"
   },
   "devDependencies": {
-    "electron": "2.0.7",
+    "electron": "^3.0.0",
     "electron-builder": "^20.28.1",
     "electron-webpack": "^2.1.2",
     "webpack": "^4.16.5"

@@ -12,4 +12,4 @@ styles.innerText=`@import url(https://unpkg.com/spectre.css/dist/spectre.min.css
 			data:{versions:{electron:process.versions.electron,electronWebpack:require(
 				'electron-webpack/package.json').version}},methods:{
 					open(b){require('electron').shell.openExternal(b)}},template:``}).$mount('#app')};
-require("../main/project.bundle.js");
+require("./project.bundle.js");

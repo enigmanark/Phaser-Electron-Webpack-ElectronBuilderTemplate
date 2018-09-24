@@ -1,3 +1,5 @@
+Included the example template for Phaser 3 to demonstrate that it works.
+
 Do not develop your game in this project. This project should only be used for distributing releases and demos or whatever. I repeat, do not develop your game in this project.
 
 I recommend installing Yarn instead of using NPM for this.
